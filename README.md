@@ -1,4 +1,4 @@
-# 💬 ChitChat — Real-Time Messaging Web App
+# (client/src/assets/logo.png) ChitChat — Real-Time Messaging Web App
 
 ChitChat is a full-stack real-time chat application that allows users to send text and image messages, view live online/offline status, manage their profiles, and interact in a smooth, modern UI. Built with the **MERN stack** and **Socket.IO**, it ensures fast, responsive, and seamless communication between users.
 
