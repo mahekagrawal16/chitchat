@@ -48,6 +48,7 @@ ChitChat is a full-stack real-time chat application that allows users to send te
 ## Author
 
 **Mahek Agrawal**     
+Computer Engineer 
 GitHub: https://github.com/mahekagrawal16      
 LinkedIn: https://linkedin.com/in/mahek-agrawal-503819255   
 Email: mahek.suresh.aug2004@gmail.com  
